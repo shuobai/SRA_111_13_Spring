@@ -49,33 +49,52 @@ reception.</td>
 	</tr>	
 </table>
 
-### 1b. Teaching Assistant Information
+### 1b. Learning Assistant Information
+
+#### Section 1
 
 <table>
 	<tr>
-		<td><strong>Name</strong></td>
-		<td>Jung Yoon Kim ("JY")</td>
+		<td><strong>TA Name</strong></td>
+		<td>Yan Cao</td>
 	</tr>
 	<tr>
 		<td><strong>E-mail</td></td>
-		<td><a href="mailto:juk238@ist.psu.edu">juk238@ist.psu.edu</a></td>
+		<td><a href="mailto:yuc169@psu.edu">yuc169@psu.edu</a></td>
 	</tr>
 	<tr>
 		<td><strong>Office hours</strong></td>
-		<td>Thursday (TIME TBA); 306 IST Building</td>
+		<td>TBA</td>
 	</tr>
 </table>
 
+#### Section 2
+
+<table>
+	<tr>
+		<td><strong>LA Name & E-mail</strong></td>
+		<td>Colin Cameron, <a href="mailto:cpc5112@psu.edu">cpc5112@psu.edu</a></td>
+	</tr>
+	<tr>
+		<td><strong>LA Name & E-mail</strong></td>
+		<td>Matthew Miller, <a href="mailto:mrm5534@psu.edu">mrm5534@psu.edu</a></td>
+	</tr>
+</table>
+
+
 ### 1c. Class Location and Time
 
-Monday, Wednesday, and Friday, 1:25–2:15p, in 205 IST Building.
+Monday, Wednesday, and Friday in 205 IST Building:
+
+* Section 1: 9:05–9:55am (schedule # 943087)
+* Section 2: 11:15am–12:05pm (schedule # 943090)
 
 ### 1d. Course Materials
 
-**Required**: Kurose & Ross, *Computer Networking: A Top-Down Approach*,
-Sixth Edition, Addison-Wesley, 2013. ISBN-10: 0-13-285620-4. *Rather
+**Required**: Whitman & Mattord, *Principles of Information Security*,
+Fourth Edition, Cengage Learning, 2012. ISBN-10: 1-111-13821-4. *Rather
 than buying a paper copy, you may wish to rent the digital version of
-this text.* The digital version is available [here](http://www.coursesmart.com/computer-networking-a-top-down-approach-sixth/james-f-kurose-keith-w-ross/dp/9780132856256) and costs approximately $56.
+this text.* The digital version is available [here](http://www.coursesmart.com/principles-of-information-security/whitman-mattord/dp/9781111138219) and costs approximately $55.
 
 A copy of the book is available on reserve at Pattee Library.
 
@@ -95,20 +114,44 @@ You can see a description of any changes made to this syllabus by viewing [the C
 
 ## 2. Course Overview
 
+Regardless of the profession in which you work, security, risk, and risk analysis have become more critical. This course relates security planning to _study options_ in the College of IST's Security and Risk Analysis major: __Information & Cyber Security__, __Enterprise Factors & Risk__, and __Intelligence Analysis & Modeling__. Coverage includes information storage/access/networking risks, legal/ethical issues, criminal/terrorist exploits, and threats from global information/intelligence warfare.
+
+Students will learn management of key risks through judicious application of three _control_ "tools": __Programs__ (e.g., security education, training, and awareness), __Policies__ (e.g., laws), and __Technologies__ (e.g., firewalls, intrusion detection systems). Thus, students are exposed to a full spectrum of security activities, methods, methodologies, and procedures. 
+
+The stakes are high, as recent exponential growth in digital information parallels our dependence on information. "Security" (i.e., "freedom from harm or danger") is needed for people (managers/policy makers, end-users/citizens, and related stakeholders), information, and other valuable assets.
+
+### 2a. Course Objectives
+
+As an introductory course, students without prior experience should be successful while more experienced students will also learn something new. Our specific semester question is, "__How do we manage growing threats to personal, enterprise, and national security?__"
+
+Students without prior experience should be able to:
+
+1. Define security, risk, risk analysis, and related terms;
+2. Prioritize personal and information assets, and threat/vulnerability pairs;
+3. Create a personal information security blueprint; and
+4. Describe risk analysis (i.e., critical thinking) and control tools such as policies, education, and technologies (i.e, firewalls, VPNs, access control, and cryptography).
 ## 3. Course Schedule
 
 ## 4. Assignments
+
+Unless otherwise noted, the submission requirement for assignments is the _beginning of class_ on the due date. Most assignments are collected within ANGEL, although a few may require a hardcopy addition. Submission details will be provided with the assignment post in ANGEL. 
+
+_Also see the "Assignments" section under Course Policies for related information (including late submissions)._
 
 ## 5. Class Policies
 
 ### 5a. Attendance
 
 You are paying a lot of money to be enrolled in this course, so you owe
-it to yourself to attend every class meeting. I will be recording
-attendance and will consider your attendance record as part of your
-class participation grade.
+it to yourself to attend every class meeting. Students will lose __30 points__ for _each_ unexcused absence, so there are a limited number of classes that you can miss and still earn a passing grade. For example, an 'A-' student with six _unexcused_ absences would receive a final grade of 'C-'. 
 
-Penn State's [class attendance
+A few notes on the absence policy:
+
+* Send an ANGEL email to "All Course Faculty" __no later than 5pm__ on the day of every absence.
+* Students are permitted four _personal_ absences; but no personal absences are allowed during _GroupTime_ or presentation classes (weeks 14 and 15).
+* For each personal absence after the first two, come see me during office hours.
+* Students are required to make up missed assignments within one week.
+*  Penn State's [class attendance
 policy](http://senate.psu.edu/policies/separate_policy/42-27.htm) states
 that students who opt to miss a class to participate in a
 University-sanctioned activity are responsible for any work missed
@@ -116,11 +159,13 @@ during the absence. If you will be missing class as part of a
 University-sanctioned activity, please complete a [class absence
 form](http://www.psu.edu/oue/aappm/classabs.pdf).
 
-In general, please plan to arrive a few minutes early and to remain
+Please plan to arrive a few minutes early and to remain
 until class is dismissed to help avoid disrupting class discussions or
 your classmates' concentration.
 
-### 5b. Lateness
+### 5b. Assignments
+
+
 
 Late assignments will be deducted 10% each day. An assignment is
 considered late if it submitted after midnight on the due date. The
