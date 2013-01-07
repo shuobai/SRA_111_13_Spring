@@ -73,11 +73,11 @@ reception.</td>
 <table>
 	<tr>
 		<td><strong>LA Name & Contact Information</strong></td>
-		<td>Colin Cameron, <a href="mailto:cpc5112@psu.edu">cpc5112@psu.edu</a></td>
+		<td>Colin Cameron, <a href="mailto:cpc5112@psu.edu">cpc5112@psu.edu</a>, 610-357-1346</td>
 	</tr>
 	<tr>
 		<td><strong>LA Name & Contact Information</strong></td>
-		<td>Matthew Miller, <a href="mailto:mrm5534@psu.edu">mrm5534@psu.edu</a>, 610-357-1346</td>
+		<td>Matthew Miller, <a href="mailto:mrm5534@psu.edu">mrm5534@psu.edu</a>, 814-602-1205</td>
 	</tr>
 	<tr>
 		<td colspan="2">LA office hours available by appointment</td>
