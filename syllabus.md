@@ -94,10 +94,10 @@ Monday, Wednesday, and Friday in 205 IST Building:
 
 ### 1d. Course Materials
 
-__Required__: Whitman & Mattord, oPrinciples of Information Securityo,
-Fourth Edition, Cengage Learning, 2012. ISBN-10: 1-111-13821-4. oRather
-than buying a paper copy, you may wish to rent the digital version of
-this text.o The digital version is available [here](http://www.coursesmart.com/principles-of-information-security/whitman-mattord/dp/9781111138219) and costs approximately $55.
+__Required__: Whitman & Mattord, _Principles of Information Security_,
+Fourth Edition, Cengage Learning, 2012. ISBN-10: 1-111-13821-4. 
+
+Rather than buying a paper copy, you may wish to rent the digital version of this text. The digital version is available [here](http://www.coursesmart.com/principles-of-information-security/whitman-mattord/dp/9781111138219) and costs approximately $55.
 
 A copy of the book is available on reserve at Pattee Library.
 
