@@ -94,7 +94,7 @@ Monday, Wednesday, and Friday in 205 IST Building:
 
 ### 1d. Course Materials
 
-ooRequiredoo: Whitman & Mattord, oPrinciples of Information Securityo,
+__Required__: Whitman & Mattord, oPrinciples of Information Securityo,
 Fourth Edition, Cengage Learning, 2012. ISBN-10: 1-111-13821-4. oRather
 than buying a paper copy, you may wish to rent the digital version of
 this text.o The digital version is available [here](http://www.coursesmart.com/principles-of-information-security/whitman-mattord/dp/9781111138219) and costs approximately $55.
@@ -415,7 +415,7 @@ it to yourself to attend every class meeting. Students will lose __30 points__ f
 
 A few notes on the absence policy:
 
-* Send an ANGEL email t* "All Course Faculty" __no later than 5pm__ on the day of every absence.
+* Send an ANGEL email to "All Course Faculty" __no later than 5pm__ on the day of every absence.
 * Students are permitted four _personal_ absences; but no personal absences are allowed during _GroupTime_ or presentation classes (weeks 14 and 15).
 * For each personal absence after the first two, come see me during office hours.
 * Students are required to make up missed assignments within one week.
@@ -440,12 +440,13 @@ The _only_ university-excused absences are:
 * Illness (a medical excuse from your health care provider may be required).
 * University-approved curricular or extra-curricular activity (prior permission from the instructor is required in this case)
 * Emergency military service (excluding regular pre-scheduled activities)
-* _Extreme_ family emergency or death (typically not weddings, graduations, or similar festivities) o Religious Holiday (notify instructor at the beginning of the semester)
+* _Extreme_ family emergency or death (typically not weddings, graduations, or similar festivities) 
+* Religious Holiday (notify instructor at the beginning of the semester)
 
 ### 5b. Assignments
 
 #### Individual vs. group assignments 
-All assignments (quizzes, projects, etc.) are considered individual assignments and NOT group assignments UNLESS _clearly__ specified by the instructor in writing. If you are having problems, come and see us during office hours as soon as possible. Note that with so many students _we do not accept assignments sent to instructors via email or as an email attachment_.
+All assignments (quizzes, projects, etc.) are considered individual assignments and NOT group assignments UNLESS _clearly_ specified by the instructor in writing. If you are having problems, come and see us during office hours as soon as possible. Note that with so many students _we do not accept assignments sent to instructors via email or as an email attachment_.
 
 #### Late assignments
 Students are responsible for completing their own work and submitting it as directed on the assignment. All assignments must be completed on time to receive credit. Since assignments are noted in the syllabus and are given well in advance, students are encouraged to complete assignments well before the due date. __Late assignments will result in a 20% point reduction__. Note that assignments will not be accepted after feedback or answers have been provided to the class (typically one week following assignment due date).
