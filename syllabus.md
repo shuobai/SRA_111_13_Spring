@@ -125,7 +125,7 @@ The stakes are high, as recent exponential growth in digital information paralle
 
 ### 2a. Course Objectives
 
-As an introductory course, students without prior experience should be successful while more experienced students will also learn something new. Our specific semester question is, "__How do we manage growing threats to personal, enterprise, and national security?__"
+As an introductory course, students without prior experience should be successful while more experienced students will also learn something new. Our specific semester question is, "_How do we manage growing threats to personal, enterprise, and national security?_"
 
 Students without prior experience should be able to:
 
